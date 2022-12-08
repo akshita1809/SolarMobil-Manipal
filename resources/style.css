@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(#4c68ad, #304e7b, #050f20);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
