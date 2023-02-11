@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href = "https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <title>Sponsors</title>
+</head>
+<body>
+    <section class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="flex flex-wrap w-full mb-20">
+            <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Current Sponsors</h1>
+              <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+            </div>
+            
+         
+          <div class="flex flex-wrap -m-4">
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-100 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/ansys.png" alt="content">
+                <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">ANSYS</h3>             
+              </div>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-100 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/memg.png" alt="content">
+                <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">MANIPAL EDUCATION AND MEDICAL GROUP</h3>
+                
+              </div>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-100 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/lotus.png"alt="content">
+                <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">LOTUS CARS</h3>
+                
+              </div>
+            </div>
+            <div class="xl:w-1/4 md:w-1/2 p-4">
+              <div class="bg-gray-100 p-6 rounded-lg">
+                <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/g.png" alt="content">
+                <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">STUDIO 34</h3>
+              </div>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/lps bossard.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">LPS BOSSARD</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/solidworks.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SOLIDWORKS</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/fronius.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">FRONIUS</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/sunsource.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">SUNSOURCE ENERGY</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/mahe.jpg" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">MAHE</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/FLAUTA.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">FLAUTA</h3>
+            </div>
+          </div>
+        </div>  
+      </section>
+      <section class="text-gray-600 body-font">
+        <div class="container px-5 py-24 mx-auto">
+          <div class="flex flex-wrap w-full mb-20">
+            <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+              <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Past Sponsors</h1>
+              <div class="h-1 w-20 bg-indigo-500 rounded"></div>
+            </div>
+          
+        <div class="flex flex-wrap -m-4">
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/CEAT.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">CEAT</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/sbi.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">STATE BANK OF INDIA</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/altair.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">ALTAIR</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/DELFINGEN.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">DELFINGEN</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/wilwood.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">DISC BRAKES- WILWOOD</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/gigavac.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">GIGAVAC</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/tata-power.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">TATA POWER SOLAR</h3>
+            </div>
+          </div>
+          <div class="xl:w-1/4 md:w-1/2 p-4">
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <img class="h-40 rounded w-full object-cover object-center mb-6" src="resources/ELEMENT14.png" alt="content">
+              <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">ELEMENT 14</h3>
+            </div>
+          </div>
+      </section>
+</body>
+</html>
